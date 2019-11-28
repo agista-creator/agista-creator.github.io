@@ -15,21 +15,11 @@
     <script>
   $(document).ready(function() {
       // body...
+    $.getJSON('bjsagista.json', function(data){
 
-      $.ajax ({ 
-        url : 'bjsagista.json',
-        type :'GET',
-        dataType : "json",
-        success: function handledata(data) {
 
-           // alert("Panjang Array : " + data.barang.length);
 
-          var strjson = JSON.stringify(data);
-          console.log(data)
-
-        
-          for(var i = 0; i < data.barang.length; i++){
-            // console.log(data.barang[i].Judul);
+        for(var i = 0; i < data.barang.length; i++){
             $('#list').append( "<div class='card' style='width: 20rem;  display: inline-block; margin:10px;'>" +
              "<img src='"+ data.barang[i].img +"' class='card-img-top' alt='...' ><div class='card-body'>" + 
             "<p class = 'judul'>"+ data.barang[i].Judul +"</p>" +
@@ -40,34 +30,14 @@
           }
 
 
-          //ngatur waktu muncul dan ilang pas ngeluarin data di web
-          // setTimeout (function() {
-          //  document.getElementById("viewerContent").innerHTML = strjson;
-          // }, 5000);
 
-          return "";
-
-
-
-
-        },
-        error: function () {
-          return "";
-        }
-
-
-
-        
+    });
+  });
 
 
 
 
 
-      });
-
-
-
-});
 
 
 </script>
