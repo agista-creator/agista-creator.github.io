@@ -1,0 +1,295 @@
+ {
+
+  "barang": [
+
+    {
+      "img": "assets/img/lampu.png",
+      "Judul": "NEW SPEED TWIN",
+       "harga" : "Price From IDR 445.000.000 (off TR)",
+       "rating" : "assets/img/rating5.png"
+      
+      
+    },
+
+    {
+      "img": "assets/img/mic.png",
+      "Judul": "ALL NEW SCRAMBLE 1200",
+       "harga" : "Price From IDR 545.000.000 (off TR)",
+        "rating" : "assets/img/rating4.png"
+   
+     
+    },
+
+
+    {
+      "img": "assets/img/lampu2.png",
+      "Judul": "ALL NEW SCRAMBLE 100 ",
+       "harga" : "Price From IDR 440.000.000 (off TR)",
+        "rating" : "assets/img/rating5.png"
+  
+     
+    },
+
+    {
+      "img": "assets/img/4.png",
+      "Judul": "BONNEVILLE T120",
+       "harga" : "Price From IDR 380.000.000 (off TR)",
+        "rating" : "assets/img/rating4.png"
+ 
+     
+    },
+
+
+    {
+      "img": "assets/img/5.png",
+      "Judul": "DAYTONA 675",
+       "harga" : "Price From IDR 446.000.000 (off TR)",
+        "rating" : "assets/img/rating4.png"
+
+     
+    },
+
+
+    {
+      "img": "assets/img/6.png",
+      "Judul": "THRUXTON 1200R",
+       "harga" : "Price From IDR 325.000.000 (off TR)",
+        "rating" : "assets/img/rating5.png"
+
+     
+    },
+
+     {
+      "img": "assets/img/7.png",
+      "Judul": "TRIUMPH TIGER 800 XCX",
+       "harga" : "Price From IDR 365.000.000 (off TR)",
+        "rating" : "assets/img/rating4.png"
+
+     
+    },
+
+
+     {
+      "img": "assets/img/8.png",
+      "Judul": "DAYTONA 657 R ",
+       "harga" : "Price From IDR 376.000.000 (off TR)",
+        "rating" : "assets/img/rating5.png"
+
+     
+    },
+
+     {
+      "img": "assets/img/9.png",
+      "Judul": "ALL NEW SCRAMBLE 1200",
+       "harga" : "Price From IDR 545.000.000 (off TR)",
+        "rating" : "assets/img/rating4.png"
+
+     
+    },
+
+     {
+      "img": "assets/img/10.png",
+      "Judul": "STREET TRIPLE R",
+       "harga" : "Price From IDR 380.000.000 (off TR)",
+        "rating" : "assets/img/rating5.png"
+
+     
+    },
+
+     {
+      "img": "assets/img/11.png",
+      "Judul": "BONNEVILLE T110",
+       "harga" : "Price From IDR 330.000.000 (off TR)",
+        "rating" : "assets/img/rating4.png"
+
+     
+    },
+
+     {
+      "img": "assets/img/12.png",
+      "Judul": "ALL NEW SCRAMBLE 1200",
+       "harga" : "Price From IDR 545.000.000 (off TR)",
+        "rating" : "assets/img/rating5.png"
+
+     
+    },
+
+     {
+      "img": "assets/img/13.png",
+      "Judul": "BONNEVILLE T110",
+       "harga" : "Price From IDR 330.000.000 (off TR)",
+        "rating" : "assets/img/rating4.png"
+
+     
+    },
+
+     {
+      "img": "assets/img/14.png",
+      "Judul": "HOT PROMO Sepatu Kets",
+       "harga" : "Rp90.000",
+        "rating" : "assets/img/rating5.png"
+
+     
+    },
+
+     {
+      "img": "assets/img/155.png",
+      "Judul": "BONNEVILLE T110",
+       "harga" : "Price From IDR 330.000.000 (off TR)",
+        "rating" : "assets/img/rating4.png"
+
+     
+    },
+
+     {
+      "img": "assets/img/16.png",
+      "Judul": "BONNEVILLE T110",
+       "harga" : "Price From IDR 330.000.000 (off TR)",
+        "rating" : "assets/img/rating5.png"
+
+     
+    },
+
+     {
+      "img": "assets/img/17.png",
+      "Judul": "BONNEVILLE T110",
+       "harga" : "Price From IDR 330.000.000 (off TR)",
+        "rating" : "assets/img/rating5.png"
+
+     
+    },
+
+     {
+      "img": "assets/img/18.png",
+      "Judul": "BONNEVILLE T220",
+       "harga" : "Price From IDR 330.000.000 (off TR)",
+        "rating" : "assets/img/rating5.png"
+
+     
+    },
+    
+
+     {
+      "img": "assets/img/19.png",
+      "Judul": "DAYTONA T110",
+       "harga" : "Price From IDR 330.000.000 (off TR)",
+        "rating" : "assets/img/rating4.png"
+
+     
+    },
+    
+
+     {
+      "img": "assets/img/20.png",
+      "Judul": "NEW SPEED TWIN",
+       "harga" : "Price From IDR 445.000.000 (off TR)",
+        "rating" : "assets/img/rating5.png"
+
+     
+    },
+    
+
+     {
+      "img": "assets/img/21.png",
+      "Judul": "DAYTONA T110",
+       "harga" : "Price From IDR 330.000.000 (off TR)",
+        "rating" : "assets/img/rating5.png"
+
+     
+    },
+     {
+      "img": "assets/img/22.png",
+       "Judul": "DAYTONA T110",
+       "harga" : "Price From IDR 330.000.000 (off TR)",
+        "rating" : "assets/img/rating4.png"
+
+     
+    },
+    
+
+     {
+      "img": "assets/img/23.png",
+      "Judul": "NEW SPEED TIGER",
+       "harga" : "Price From IDR 440.000.000 (off TR)",
+        "rating" : "assets/img/rating5.png"
+
+     
+    },
+    
+
+     {
+      "img": "assets/img/24.png",
+      "Judul": "NEW SPEED TIGER",
+       "harga" : "Price From IDR 485.000.000 (off TR)",
+        "rating" : "assets/img/rating5.png"
+
+     
+    },
+    
+
+     {
+      "img": "assets/img/25.png",
+      "Judul": "NEW SPEED T110",
+       "harga" : "Price From IDR 495.000.000 (off TR)",
+        "rating" : "assets/img/rating5.png"
+
+     
+    },
+    
+
+     {
+      "img": "assets/img/26.png",
+     "Judul": "NEW TIGER T110",
+       "harga" : "Price From IDR 445.000.000 (off TR)",
+        "rating" : "assets/img/rating4.png"
+
+     
+    },
+    
+
+     {
+      "img": "assets/img/27.png",
+     "Judul": "NEW TIGER T110",
+       "harga" : "Price From IDR 895.000.000 (off TR)",
+        "rating" : "assets/img/rating5.png"
+
+     
+    },
+    
+
+     {
+      "img": "assets/img/28.png",
+     "Judul": "NEW T110",
+       "harga" : "Price From IDR 445.000.000 (off TR)",
+        "rating" : "assets/img/rating5.png"
+
+     
+    },
+    
+
+     {
+      "img": "assets/img/29.png",
+     "Judul": "NEW HUNTER T110",
+       "harga" : "Price From IDR 555.000.000 (off TR)",
+        "rating" : "assets/img/rating4.png"
+
+     
+    },
+
+     {
+      "img": "assets/img/30.png",
+     "Judul": "NEW TIGER T120",
+       "harga" : "Price From IDR 230.000.000 (off TR)",
+        "rating" : "assets/img/rating5.png"
+
+     
+    }
+    
+  
+
+  ]
+ }
+
+
+
+
